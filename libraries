@@ -1,0 +1,3 @@
+This project uses these libraries to work:
+-> Qt (main window of program),
+-> SFML (the whole game).
